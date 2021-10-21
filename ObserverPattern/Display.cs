@@ -10,5 +10,6 @@ namespace CricketScore
     {
         void DisplayScore();
         void Update(int CurScore, float numOvers);
+
     }
 }
